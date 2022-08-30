@@ -1,0 +1,2 @@
+PT/BR: Projetos Python referentes a ideias que forem surgindo de acordo com os estudos realizados na área de Tecnologia da Informação
+EN/US: Python projects regarding some ideas that may come up while studying Information Technology
